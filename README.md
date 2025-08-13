@@ -23,7 +23,7 @@ Merkittävät muutokset julkaisuun
 |pvm|Muutokset|Tekijä|
 |---|---|---|
 |21.06.2025|Versio 1.0 julkaisu|Saku Kaarlejärvi|
-|xx.xx.2025|Zenodo julkaisu|Saku Kaarlejärvi|
+|13.08.2025|Zenodo julkaisu|Saku Kaarlejärvi|
   
 # Sisällysluettelo
 - [Julkaisun nimi](#pdf-rag-tekoälykoodi)
